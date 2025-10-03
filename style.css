@@ -24,6 +24,11 @@ body{
  
 }
 
+.img_vetements_femmes {
+    width: 30%;
+    height: auto;
+}
+
 .header-nav a {
     float: left;
     width: 25%;
